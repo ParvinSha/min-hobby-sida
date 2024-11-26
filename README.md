@@ -8,4 +8,4 @@ Det här är en enkel webbsida som handlar om min hobby: matlagning. Här hittar
 - Recept på Spaghetti Carbonara
 - Inspiration för att komma igång med matlagning
 
-Kontakta mig: [exempel@matlagning.se](mailto:exempel@matlagning.se)
+Kontakta mig: [parvin@matlagning.se](mailto:exempel@matlagning.se)
